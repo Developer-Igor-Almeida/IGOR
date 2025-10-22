@@ -1,0 +1,15 @@
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\bin\Debug\net8.0\TMB_Pedidos.Application.deps.json
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\bin\Debug\net8.0\TMB_Pedidos.Application.dll
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\bin\Debug\net8.0\TMB_Pedidos.Application.pdb
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\obj\Debug\net8.0\TMB_Pedidos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\obj\Debug\net8.0\TMB_Pedidos.Application.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\obj\Debug\net8.0\TMB_Pedidos.Application.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\obj\Debug\net8.0\TMB_Pedidos.Application.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\obj\Debug\net8.0\TMB_Pedidos.Application.dll
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\obj\Debug\net8.0\refint\TMB_Pedidos.Application.dll
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\obj\Debug\net8.0\TMB_Pedidos.Application.pdb
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\obj\Debug\net8.0\ref\TMB_Pedidos.Application.dll
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\bin\Debug\net8.0\TMB_Pedidos.Domain.dll
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\bin\Debug\net8.0\TMB_Pedidos.Domain.pdb
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\obj\Debug\net8.0\TMB_Pedidos.Application.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Application\obj\Debug\net8.0\TMB_Pedi.DFFA5739.Up2Date

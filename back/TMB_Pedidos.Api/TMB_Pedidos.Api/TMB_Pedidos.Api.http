@@ -1,0 +1,6 @@
+@TMB_Pedidos.Api_HostAddress = http://localhost:5208
+
+GET {{TMB_Pedidos.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

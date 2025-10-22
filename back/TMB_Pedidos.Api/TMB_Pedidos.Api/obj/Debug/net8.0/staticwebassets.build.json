@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BeU8ZHyVEDYGuFeUHXpIYu1yDPKtmXCbWOJo5roDlt0=",
+  "Source": "TMB_Pedidos.Api",
+  "BasePath": "_content/TMB_Pedidos.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

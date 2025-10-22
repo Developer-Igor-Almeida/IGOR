@@ -1,0 +1,17 @@
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\bin\Debug\net8.0\TMB_Pedidos.Infrastructure.deps.json
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\bin\Debug\net8.0\TMB_Pedidos.Infrastructure.dll
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\bin\Debug\net8.0\TMB_Pedidos.Infrastructure.pdb
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\obj\Debug\net8.0\TMB_Pedidos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\obj\Debug\net8.0\TMB_Pedidos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\obj\Debug\net8.0\TMB_Pedidos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\obj\Debug\net8.0\TMB_Pedidos.Infrastructure.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\obj\Debug\net8.0\TMB_Pedidos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\obj\Debug\net8.0\TMB_Pedidos.Infrastructure.dll
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\obj\Debug\net8.0\refint\TMB_Pedidos.Infrastructure.dll
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\obj\Debug\net8.0\TMB_Pedidos.Infrastructure.pdb
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\obj\Debug\net8.0\ref\TMB_Pedidos.Infrastructure.dll
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\bin\Debug\net8.0\TMB_Pedidos.Domain.dll
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\bin\Debug\net8.0\TMB_Pedidos.Domain.pdb
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\obj\Debug\net8.0\TMB_Pedi.92D93FC0.Up2Date
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\bin\Debug\net8.0\TMB_Pedidos.Infrastructure.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Infrastructure\obj\Debug\net8.0\TMB_Pedidos.Infrastructure.genruntimeconfig.cache

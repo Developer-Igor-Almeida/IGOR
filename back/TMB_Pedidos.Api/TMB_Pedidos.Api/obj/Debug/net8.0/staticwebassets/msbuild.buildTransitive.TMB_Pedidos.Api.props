@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TMB_Pedidos.Api.props" />
+</Project>

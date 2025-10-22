@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TMB_Pedidos.Application/1.0.0": {
+        "dependencies": {
+          "TMB_Pedidos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TMB_Pedidos.Application.dll": {}
+        }
+      },
+      "TMB_Pedidos.Domain/1.0.0": {
+        "runtime": {
+          "TMB_Pedidos.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TMB_Pedidos.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TMB_Pedidos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

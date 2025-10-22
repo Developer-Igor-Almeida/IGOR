@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TMB_Pedidos.Api.props" />
+</Project>
