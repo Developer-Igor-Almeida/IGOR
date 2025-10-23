@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jeffe\\OneDrive\\Downloads\\tmb\\back\\TMB_Pedidos.Api\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\jeffe\\OneDrive\\Downloads\\tmb\\back\\TMB_Pedidos.Api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89955CC1-6BA8-4CD7-A53D-D5179D86DB3B}|TMB_Pedidos.Api\\TMB_Pedidos.Api.csproj|c:\\users\\jeffe\\onedrive\\downloads\\tmb\\back\\tmb_pedidos.api\\tmb_pedidos.api\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{89955CC1-6BA8-4CD7-A53D-D5179D86DB3B}|TMB_Pedidos.Api\\TMB_Pedidos.Api.csproj|solutionrelative:tmb_pedidos.api\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,32 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:21:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Downloads\\tmb\\back\\TMB_Pedidos.Api\\TMB_Pedidos.Api\\.env",
-              "RelativeDocumentMoniker": "TMB_Pedidos.Api\\.env",
-              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Downloads\\tmb\\back\\TMB_Pedidos.Api\\TMB_Pedidos.Api\\.env",
-              "RelativeToolTip": "TMB_Pedidos.Api\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-22T22:51:38.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\jeffe\\OneDrive\\Downloads\\tmb\\back\\TMB_Pedidos.Api\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\jeffe\\OneDrive\\Downloads\\tmb\\back\\TMB_Pedidos.Api\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-10-22T22:47:49.854Z",
-              "EditorCaption": ""
             }
           ]
         }

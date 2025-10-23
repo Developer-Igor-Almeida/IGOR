@@ -1,0 +1,31 @@
+# Etapa 1: Build
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /app
+
+# Copia a solução e os projetos .csproj
+COPY *.sln ./
+COPY TMB_Pedidos.Api/*.csproj TMB_Pedidos.Api/
+COPY TMB_Pedidos.Application/*.csproj TMB_Pedidos.Application/
+COPY TMB_Pedidos.Domain/*.csproj TMB_Pedidos.Domain/
+COPY TMB_Pedidos.Infrastructure/*.csproj TMB_Pedidos.Infrastructure/
+
+# Restaura todas as dependências
+RUN dotnet restore
+
+# Copia o restante do código
+COPY . ./
+
+# Define pasta da API e publica
+WORKDIR /app/TMB_Pedidos.Api
+RUN dotnet publish -c Release -o /app/publish
+
+# Etapa 2: Runtime
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
+WORKDIR /app
+COPY --from=build /app/publish .
+
+# Forçar ASP.NET Core a escutar em todas as interfaces
+ENV ASPNETCORE_URLS=http://+:5000
+
+EXPOSE 5000
+ENTRYPOINT ["dotnet", "TMB_Pedidos.Api.dll"]

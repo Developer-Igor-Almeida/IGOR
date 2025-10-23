@@ -2939,23 +2939,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jeffe\\.nuget\\packages\\": {},
+    "C:\\Users\\IGOR\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeffe\\OneDrive\\Downloads\\tmb\\back\\TMB_Pedidos.Api\\TMB_Pedidos.Infrastructure\\TMB_Pedidos.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\IGOR\\Desktop\\Backend\\IGOR\\back\\TMB_Pedidos.Api\\TMB_Pedidos.Infrastructure\\TMB_Pedidos.Infrastructure.csproj",
       "projectName": "TMB_Pedidos.Infrastructure",
-      "projectPath": "C:\\Users\\jeffe\\OneDrive\\Downloads\\tmb\\back\\TMB_Pedidos.Api\\TMB_Pedidos.Infrastructure\\TMB_Pedidos.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\jeffe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeffe\\OneDrive\\Downloads\\tmb\\back\\TMB_Pedidos.Api\\TMB_Pedidos.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\IGOR\\Desktop\\Backend\\IGOR\\back\\TMB_Pedidos.Api\\TMB_Pedidos.Infrastructure\\TMB_Pedidos.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\IGOR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IGOR\\Desktop\\Backend\\IGOR\\back\\TMB_Pedidos.Api\\TMB_Pedidos.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jeffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IGOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2964,14 +2964,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\jeffe\\OneDrive\\Downloads\\tmb\\back\\TMB_Pedidos.Api\\TMB_Pedidos.Domain\\TMB_Pedidos.Domain.csproj": {
-              "projectPath": "C:\\Users\\jeffe\\OneDrive\\Downloads\\tmb\\back\\TMB_Pedidos.Api\\TMB_Pedidos.Domain\\TMB_Pedidos.Domain.csproj"
+            "C:\\Users\\IGOR\\Desktop\\Backend\\IGOR\\back\\TMB_Pedidos.Api\\TMB_Pedidos.Domain\\TMB_Pedidos.Domain.csproj": {
+              "projectPath": "C:\\Users\\IGOR\\Desktop\\Backend\\IGOR\\back\\TMB_Pedidos.Api\\TMB_Pedidos.Domain\\TMB_Pedidos.Domain.csproj"
             }
           }
         }
@@ -2986,7 +2987,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -3033,7 +3034,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

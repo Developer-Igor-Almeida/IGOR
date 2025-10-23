@@ -9,3 +9,15 @@ C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\ob
 C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\obj\Debug\net8.0\refint\TMB_Pedidos.Domain.dll
 C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\obj\Debug\net8.0\TMB_Pedidos.Domain.pdb
 C:\Users\jeffe\OneDrive\Downloads\tmb\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\obj\Debug\net8.0\ref\TMB_Pedidos.Domain.dll
+C:\Users\IGOR\Desktop\Backend\IGOR\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\bin\Debug\net8.0\TMB_Pedidos.Domain.deps.json
+C:\Users\IGOR\Desktop\Backend\IGOR\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\bin\Debug\net8.0\TMB_Pedidos.Domain.dll
+C:\Users\IGOR\Desktop\Backend\IGOR\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\bin\Debug\net8.0\TMB_Pedidos.Domain.pdb
+C:\Users\IGOR\Desktop\Backend\IGOR\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\obj\Debug\net8.0\TMB_Pedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IGOR\Desktop\Backend\IGOR\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\obj\Debug\net8.0\TMB_Pedidos.Domain.AssemblyInfoInputs.cache
+C:\Users\IGOR\Desktop\Backend\IGOR\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\obj\Debug\net8.0\TMB_Pedidos.Domain.AssemblyInfo.cs
+C:\Users\IGOR\Desktop\Backend\IGOR\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\obj\Debug\net8.0\TMB_Pedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\IGOR\Desktop\Backend\IGOR\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\obj\Debug\net8.0\TMB_Pedidos.Domain.sourcelink.json
+C:\Users\IGOR\Desktop\Backend\IGOR\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\obj\Debug\net8.0\TMB_Pedidos.Domain.dll
+C:\Users\IGOR\Desktop\Backend\IGOR\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\obj\Debug\net8.0\refint\TMB_Pedidos.Domain.dll
+C:\Users\IGOR\Desktop\Backend\IGOR\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\obj\Debug\net8.0\TMB_Pedidos.Domain.pdb
+C:\Users\IGOR\Desktop\Backend\IGOR\back\TMB_Pedidos.Api\TMB_Pedidos.Domain\obj\Debug\net8.0\ref\TMB_Pedidos.Domain.dll

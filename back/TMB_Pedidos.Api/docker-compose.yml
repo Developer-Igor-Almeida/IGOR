@@ -1,24 +1,12 @@
-version: "3.9"
-
+version: "3.8"
 services:
-  api:
+  backend:
     build:
       context: .
-      dockerfile: TMB_Pedidos.Api/Dockerfile
-    container_name: tmb_api
-    depends_on:
-      db:
-        condition: service_healthy
-    environment:
-      # API escuchando en 8080 dentro del contenedor
-      ASPNETCORE_URLS: http://+:8080
-      # cadena de conexión para EF (usa el nombre del servicio 'db' como host)
-      ConnectionStrings__TMB_Connection: Host=db;Port=5432;Database=tmb_pedidos;Username=postgres;Password=tmb_test
-      # activa la auto-migración en el arranque
-      APPLY_MIGRATIONS: "true"
+      dockerfile: Dockerfile.dev
     ports:
-      - "8080:8080"
-    restart: unless-stopped
-
-volumes:
-  pgdata: {}
+      - "5000:5000"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - DOTNET_RUNNING_IN_CONTAINER=true
+      - ASPNETCORE_URLS=http://+:5000
